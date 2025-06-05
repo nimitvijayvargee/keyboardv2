@@ -18,3 +18,11 @@ Made a schematic of the keyboard and also laid out all the components into the P
 Re-routing the PCB so that I can include a ground plane. Also improved the schematic by flipping LEDs in alternate rows to decrease routing issues.
 ![image](https://github.com/user-attachments/assets/b807c907-4a2c-418e-a2e5-638701fd6a0b)
 ![image](https://github.com/user-attachments/assets/41aec6c1-79fd-4c7f-9dea-11d88603817b)
+
+
+# May 27 - June 5th
+
+Polishing the PCB. Also added decoupling resistors according to the PCB Spec. Fixed electrical issues and began setting up my QMK environment to work on the firmware.
+Compared prices and conducted research on components across manufacturers. Finalized PCBA and component settings in JLCPCB
+![image](https://github.com/user-attachments/assets/9f430366-019c-418c-8241-b8f223c23ae0)
+![image](https://github.com/user-attachments/assets/fbf86d83-12aa-47f0-900c-018b943784f9)
