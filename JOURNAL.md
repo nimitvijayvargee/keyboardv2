@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/1263ee32-a26f-475c-8e55-3a4e5edef44d)---
 title: "Nimit's Keyboard V2"
 author: "Nimit Vijayvargee"
 description: "A QMK supporting keyboard built around the RP2040"
@@ -26,3 +26,17 @@ Polishing the PCB. Also added decoupling resistors according to the PCB Spec. Fi
 Compared prices and conducted research on components across manufacturers. Finalized PCBA and component settings in JLCPCB
 ![image](https://github.com/user-attachments/assets/9f430366-019c-418c-8241-b8f223c23ae0)
 ![image](https://github.com/user-attachments/assets/fbf86d83-12aa-47f0-900c-018b943784f9)
+
+# June 6th - June 11th
+
+Completed PCB, created KLE layout (for future porting to VIAL) and setup configs for QMK. Also made the Case sketch
+![image](https://github.com/user-attachments/assets/07bc01bf-ac24-491d-af63-58112a3cf7e1)
+![image](https://github.com/user-attachments/assets/16003fce-9efe-4107-aaeb-0c661cb58836)
+
+
+
+# June 12th 
+
+Completed case (extrusion), compared prices and created BOM list. Case is left to export. After this, I will only need to finish setting up the QMK definitions to work with the LEDs and the rotary encoders.
+![image](https://github.com/user-attachments/assets/ab1204d3-6e9b-4b53-8d96-15958b275e2c)
+
