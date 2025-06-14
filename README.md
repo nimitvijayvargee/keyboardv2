@@ -23,6 +23,6 @@ The keyboard deviates from my original design by implementing RGB and embracing 
 | Switches                                                      | 2800      | 33        |
 | Keycaps                                                       | 1300      | 15        |
 | Rotary Encoder, Threaded Inserts, M3x6 Screws, Adhesive Grips | 1500      | 18        |
-| Stabalizers                                                   | 1000      | 13        |
+| Stabilizers                                                   | 1000      | 13        |
 | Case (Printing Legion)                                        | N/A       | N/A       |
 | **Total**                                                     | **12060** | **154**   |
