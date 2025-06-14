@@ -17,11 +17,11 @@ The keyboard deviates from my original design by implementing RGB and embracing 
 
 
 # Bill of Materials (for highway)
-| Item                                                       | Cost(INR) | Cost(USD) |
-|------------------------------------------------------------|-----------|-----------|
-| PCBA                                                       | 6460      | 75        |
-| Switches                                                   | 2800      | 33        |
-| Keycaps                                                    | 1300      | 15        |
-| Rotary Encoder Threaded Inserts M3x6 Screws Adhesive Grips | 1500      | 18        |
-| Case (Printing Legion)                                     | N/A       | N/A       |
-| **Total**                                                  | **12060** | **141**   |
+| Item                                                          | Cost(INR) | Cost(USD) |
+|---------------------------------------------------------------|-----------|-----------|
+| PCBA                                                          | 6460      | 75        |
+| Switches                                                      | 2800      | 33        |
+| Keycaps                                                       | 1300      | 15        |
+| Rotary Encoder, Threaded Inserts, M3x6 Screws, Adhesive Grips | 1500      | 18        |
+| Case (Printing Legion)                                        | N/A       | N/A       |
+| **Total**                                                     | **12060** | **141**   |
