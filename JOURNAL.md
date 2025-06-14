@@ -45,3 +45,10 @@ Time Spent: 1 Hour
 Exported Case files into printable 3D models. Commited local project files from KiCad and Fusion to github.
 Also started working on polishing QMK to work with the LEDs. Decided on using ALT + R-SHIFT to cycle through patterns.
 
+
+# June 14th
+Time Spent: 1 Hour
+Took a break from QMK and started working on the VIAL configs instead. Successfully loaded keyboard into VIAL editor.
+![image](https://github.com/user-attachments/assets/2176f7c5-4bc1-44d3-b3c2-f6717521ecc8)
+
+
