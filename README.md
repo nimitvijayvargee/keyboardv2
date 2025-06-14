@@ -10,7 +10,7 @@ The keyboard deviates from my original design by implementing RGB and embracing 
 ![image](https://github.com/user-attachments/assets/2bb38367-7e88-4d97-ad61-50bc3008b817)
 
 ## Section of keyboard routing near the microcontroller
-![image](https://github.com/user-attachments/assets/5bbecc2e-5063-4024-a3f3-44923132dcf8)
+![image](https://github.com/user-attachments/assets/b91a9971-25eb-4397-9776-d0de8851b002)
 
 ## KLE viewer of the keyboard (ANSI-75)
 ![image](https://github.com/user-attachments/assets/114e993f-5b88-4c41-b6dc-0942ea61358d)
