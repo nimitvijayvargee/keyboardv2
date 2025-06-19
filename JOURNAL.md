@@ -52,4 +52,10 @@ Took a break from QMK and started working on the VIAL configs instead. Successfu
 Readied the project for submission!
 ![image](https://github.com/user-attachments/assets/2176f7c5-4bc1-44d3-b3c2-f6717521ecc8)
 
+# June 18th - June 19th
+Time Spent: 1 Hour <br>
+Added silkscreen art, worked on QMK configs.
+![image](https://github.com/user-attachments/assets/12a224a1-d5a0-49b2-8f60-df78a339d182)
+
+
 
