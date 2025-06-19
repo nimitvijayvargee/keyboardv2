@@ -16,7 +16,7 @@ The keyboard deviates from my original design by implementing RGB and embracing 
 ![image](https://github.com/user-attachments/assets/114e993f-5b88-4c41-b6dc-0942ea61358d)
 
 ## PCB Render
-![image](https://github.com/user-attachments/assets/248ff335-301c-4a23-bc63-d517526b7c2f)
+![image](https://github.com/user-attachments/assets/28c11136-58be-442b-ba71-7750f75a48d7)
 
 ## All together!
 ![image](https://github.com/user-attachments/assets/98af1268-53a8-41a9-8298-e5d024aac4c7)
