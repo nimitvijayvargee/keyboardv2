@@ -2,6 +2,7 @@
 
 A second version of my original keyboard I designed during Hackpad V2. This keyboard follows a slight variation of the ANSI-75 Layout and is coded with QMK and and customizable with VIAL.
 The keyboard deviates from my original design by implementing RGB and embracing the plate-less design. The keyboard has per-key RGB thanks to the SK6812-Mini-e Inverted LED.
+![Uploading image.png…]()
 
 ## Keyboard in VIAL
 ![image](https://github.com/user-attachments/assets/befaa6c8-d0e0-4115-9e05-6f89d63b9ac0)
