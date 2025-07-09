@@ -43,7 +43,7 @@ Completed case (extrusion), compared prices and created BOM list. Case is left t
 # June 13th
 Time Spent: 1 Hour <br>
 Exported Case files into printable 3D models. Commited local project files from KiCad and Fusion to github.
-Also started working on polishing QMK to work with the LEDs. Decided on using ALT + R-SHIFT to cycle through patterns.
+Also started working on polishing QMK to work with the LEDs.
 
 
 # June 14th
@@ -60,8 +60,13 @@ Added silkscreen art, worked on QMK configs.
 # July 4th - July 5th
 Time Spent: 8 Hours <br>
 The PCBs arrived! I spent more than 4 hours each day to solder them, test connections and resolder them! My soldering skills weren't that good and left a lot to be desired but it ended up working out! I also a burnt a pad for one of the switches (oops) so I had to solder a copper wire between that pad and the diode but oops!
+![image](https://github.com/user-attachments/assets/e1cf34dd-e4c6-45d0-9fd1-07f93653a251)
+![image](https://github.com/user-attachments/assets/cd633f5e-076a-41dd-b36c-7f01b007cc20)
+
 
 # July 5th - July 7th
 Time Spent: 7 Hours <br>
 Getting QMK to compile with the RGB Features! It took a lot of trial and error and it was very annoying to get it working. I also worked on getting vial worked out at the same time! It was kind of difficult since I am more used to python but adding all my features in info.json worked without any actual code so that was kind of nice.
 I also had to do a bit of troubleshooting on the solder joints because they were bugging the matrix by shorting ground.
+![image](https://github.com/user-attachments/assets/904b2a05-60f2-4a3e-9909-25495975fe56)
+
