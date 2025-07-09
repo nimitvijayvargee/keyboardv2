@@ -57,5 +57,11 @@ Time Spent: 1 Hour <br>
 Added silkscreen art, worked on QMK configs.
 ![image](https://github.com/user-attachments/assets/12a224a1-d5a0-49b2-8f60-df78a339d182)
 
+# July 4th - July 5th
+Time Spent: 8 Hours <br>
+The PCBs arrived! I spent more than 4 hours each day to solder them, test connections and resolder them! My soldering skills weren't that good and left a lot to be desired but it ended up working out! I also a burnt a pad for one of the switches (oops) so I had to solder a copper wire between that pad and the diode but oops!
 
-
+# July 5th - July 7th
+Time Spent: 7 Hours <br>
+Getting QMK to compile with the RGB Features! It took a lot of trial and error and it was very annoying to get it working. I also worked on getting vial worked out at the same time! It was kind of difficult since I am more used to python but adding all my features in info.json worked without any actual code so that was kind of nice.
+I also had to do a bit of troubleshooting on the solder joints because they were bugging the matrix by shorting ground.
