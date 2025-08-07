@@ -1,7 +1,5 @@
 # nimits_keyboard_v2
 
-![nimits_keyboard_v2](imgur.com image replace me!)
-
 Developed by Nimit Vijayvargee and funded by Hack Club!
 
 * Keyboard Maintainer: [Nimit Vijayvargee](https://github.com/NimitVijayvargee)
