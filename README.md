@@ -23,6 +23,9 @@ The keyboard deviates from my original design by implementing RGB and embracing 
 ![image](https://github.com/user-attachments/assets/98af1268-53a8-41a9-8298-e5d024aac4c7)
 
 
+# Note about the case V2 design
+The new design was designed differently from the rest of the keyboard for Blueprint. It fixes some of my issues with the previous design, mainly the size and the thickness. This design is a bit more fragile, but unless you absolutely destroy your keyboard at 400WPM, it should hold. The USB port design is also slightly tighter, but unless you are using a USB cable thicker than the MCU itself, you should be fine. The other changes are the screw holes having chamfering to prevent snapping off under pressure, and the tolerances being increased to be 3D printed better.
+
 # Bill of Materials (for highway)
 | Item                                                          | Cost(INR) | Cost(USD) |
 |---------------------------------------------------------------|-----------|-----------|
